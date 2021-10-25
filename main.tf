@@ -4,6 +4,6 @@ resource "aws_s3_bucket" "sel-natar" {
 
   tags = {
     Name        = "MyBucket"
-    Environment = "Dev"
+    Environment = "Dev2"
   }
 }
